@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Gaya untuk teks tanggal -->
+    <style name="CustomDateTextAppearance" parent="TextAppearance.AppCompat.Body1">
+        <item name="android:textColor">@color/black</item>
+    </style>
+
+    <!-- Gaya untuk teks hari (Minggu, Senin, dll.) -->
+    <style name="CustomWeekDayTextAppearance" parent="TextAppearance.AppCompat.Body2">
+        <item name="android:textColor">@color/black</item>
+    </style>
+</resources>
