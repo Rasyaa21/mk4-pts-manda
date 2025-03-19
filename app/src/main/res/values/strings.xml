@@ -20,4 +20,5 @@
     <string name="error_network">Network error. Please try again later.</string>
     <string name="loading">Loading...</string>
     <string name="search_placeholder">Search tasks or notes</string>
+    <string name="default_web_client_id">501979072466-8c0972cc1bd6d9625a4cgd5o1ofo3gu0.apps.googleusercontent.com</string>
 </resources>
